@@ -1,0 +1,8 @@
+.ColorBox-div {
+  width: 14vw;
+  height: 14vw;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}

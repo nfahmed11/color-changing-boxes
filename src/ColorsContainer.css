@@ -1,0 +1,9 @@
+.ColorsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.ColorsContainer-h1 {
+  color: white;
+}
